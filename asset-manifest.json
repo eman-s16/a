@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lavish/static/css/main.301fd5ea.css",
+    "main.js": "/lavish/static/js/main.2298cfba.js",
+    "index.html": "/lavish/index.html",
+    "main.301fd5ea.css.map": "/lavish/static/css/main.301fd5ea.css.map",
+    "main.2298cfba.js.map": "/lavish/static/js/main.2298cfba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.301fd5ea.css",
+    "static/js/main.2298cfba.js"
+  ]
+}
