@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lavish/static/css/main.301fd5ea.css",
-    "main.js": "/lavish/static/js/main.bc06a6a9.js",
+    "main.js": "/lavish/static/js/main.0c575d13.js",
     "index.html": "/lavish/index.html",
     "main.301fd5ea.css.map": "/lavish/static/css/main.301fd5ea.css.map",
-    "main.bc06a6a9.js.map": "/lavish/static/js/main.bc06a6a9.js.map"
+    "main.0c575d13.js.map": "/lavish/static/js/main.0c575d13.js.map"
   },
   "entrypoints": [
     "static/css/main.301fd5ea.css",
-    "static/js/main.bc06a6a9.js"
+    "static/js/main.0c575d13.js"
   ]
 }
